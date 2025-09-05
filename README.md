@@ -3,3 +3,4 @@
 - Tokyo
 - New York
 - Marrakech
+- Istanbul
